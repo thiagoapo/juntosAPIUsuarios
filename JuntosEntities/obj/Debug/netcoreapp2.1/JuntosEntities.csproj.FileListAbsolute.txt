@@ -1,0 +1,9 @@
+C:\Projects\API-Usuarios\JuntosEntities\bin\Debug\netcoreapp2.1\JuntosEntities.deps.json
+C:\Projects\API-Usuarios\JuntosEntities\bin\Debug\netcoreapp2.1\JuntosEntities.dll
+C:\Projects\API-Usuarios\JuntosEntities\bin\Debug\netcoreapp2.1\JuntosEntities.pdb
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.csprojAssemblyReference.cache
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.csproj.CoreCompileInputs.cache
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.AssemblyInfoInputs.cache
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.AssemblyInfo.cs
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.dll
+C:\Projects\API-Usuarios\JuntosEntities\obj\Debug\netcoreapp2.1\JuntosEntities.pdb

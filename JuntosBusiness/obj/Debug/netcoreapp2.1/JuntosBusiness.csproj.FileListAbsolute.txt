@@ -1,0 +1,14 @@
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosBusiness.deps.json
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosBusiness.dll
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosBusiness.pdb
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosData.dll
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosEntities.dll
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosData.pdb
+C:\Projects\API-Usuarios\JuntosBusiness\bin\Debug\netcoreapp2.1\JuntosEntities.pdb
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.csprojAssemblyReference.cache
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.AssemblyInfoInputs.cache
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.AssemblyInfo.cs
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.csproj.CopyComplete
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.dll
+C:\Projects\API-Usuarios\JuntosBusiness\obj\Debug\netcoreapp2.1\JuntosBusiness.pdb

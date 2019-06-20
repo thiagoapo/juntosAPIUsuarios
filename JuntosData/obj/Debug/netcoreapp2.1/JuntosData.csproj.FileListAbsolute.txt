@@ -1,0 +1,12 @@
+C:\Projects\API-Usuarios\JuntosData\bin\Debug\netcoreapp2.1\JuntosData.deps.json
+C:\Projects\API-Usuarios\JuntosData\bin\Debug\netcoreapp2.1\JuntosData.dll
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.csprojAssemblyReference.cache
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.csproj.CoreCompileInputs.cache
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.AssemblyInfoInputs.cache
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.AssemblyInfo.cs
+C:\Projects\API-Usuarios\JuntosData\bin\Debug\netcoreapp2.1\JuntosData.pdb
+C:\Projects\API-Usuarios\JuntosData\bin\Debug\netcoreapp2.1\JuntosEntities.dll
+C:\Projects\API-Usuarios\JuntosData\bin\Debug\netcoreapp2.1\JuntosEntities.pdb
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.csproj.CopyComplete
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.dll
+C:\Projects\API-Usuarios\JuntosData\obj\Debug\netcoreapp2.1\JuntosData.pdb

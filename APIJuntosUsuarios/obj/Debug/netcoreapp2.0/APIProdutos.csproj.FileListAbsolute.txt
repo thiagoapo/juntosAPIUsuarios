@@ -1,0 +1,11 @@
+C:\Projects\API-Usuarios\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.deps.json
+C:\Projects\API-Usuarios\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.json
+C:\Projects\API-Usuarios\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.dev.json
+C:\Projects\API-Usuarios\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.dll
+C:\Projects\API-Usuarios\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.pdb
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.csprojAssemblyReference.cache
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.csproj.CoreCompileInputs.cache
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfoInputs.cache
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfo.cs
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.dll
+C:\Projects\API-Usuarios\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.pdb
